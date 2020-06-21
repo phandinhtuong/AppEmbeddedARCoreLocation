@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppEmbeddedARCoreLocation</string>
+    <string name="open_ar_camera">Open AR Camera</string>
+</resources>
